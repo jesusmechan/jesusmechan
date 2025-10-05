@@ -5,7 +5,6 @@
 **Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
@@ -14,7 +13,7 @@ I specialize in full-stack development, combining .NET / .NET Core technologies 
 * **I’m passionate about web development and software architecture.**
 🌱 I’m currently learning:
   - Clean Architecture with DDD in .NET 8
-  - Java
+  - Java with Spring Boot
 - 👯 I’m open to collaborating on open source projects related to backend or full-stack developm
 - ✔  Feel free to ask me about anything related to web development, databases, or software architecture — I’ll be happy to help if it’s in my field! 😉<br>
 - I’m currently studying at university, complementing my education in Software Development to continue growing as a professional.
