@@ -6,7 +6,7 @@
 -->
 
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+## ***About me***
 
 I am a Software Engineer with over 3 years of experience developing efficient and scalable web solutions.
 I specialize in full-stack development, combining .NET / .NET Core technologies on the backend and Angular / AngularJS on the frontend, along with SQL Server for data management.
