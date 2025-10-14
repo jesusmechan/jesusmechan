@@ -11,14 +11,14 @@
 I am a Software Engineer with over 3 years of experience developing efficient and scalable web solutions.
 I specialize in full-stack development, combining .NET / .NET Core technologies on the backend and Angular / AngularJS on the frontend, along with SQL Server for data management.
 * **I’m passionate about web development and software architecture.**
-🌱 I’m currently learning:
+ I’m currently learning:
   - Clean Architecture with DDD in .NET 8
   - Java with Spring Boot
 - 👯 I’m open to collaborating on open source projects related to backend or full-stack developm
 - ✔  Feel free to ask me about anything related to web development, databases, or software architecture — I’ll be happy to help if it’s in my field! 😉<br>
 - I’m currently studying at university, complementing my education in Software Development to continue growing as a professional.
-- Outside the tech world, 🎮 I enjoy playing games like Cabal and Dota 2, 🐕 spending time with my dog, and 🌇 relaxing outdoors.
-- 📫 You can reach me at: jesusmechangonzales@gmail.com
+- Outside the tech world, I enjoy playing games like Cabal and Dota 2, spending time with my dog, and relaxing outdoors.
+- You can reach me at: jesusmechangonzales@gmail.com
 
 
 
